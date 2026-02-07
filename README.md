@@ -26,3 +26,6 @@ The project was developed and executed using Google Colab
 
 # Future improvements
 Longer training and faster NeRF variant testing (Instant-NGP)
+
+# Note 
+This notebook uses absolute paths pointing to the author's Google Drive. Users who want to run the notebook must update the paths to match their own Drive or local environment.
